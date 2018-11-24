@@ -16,5 +16,6 @@ Decimals: 8
 Etherscan: https://etherscan.io/token/0xc5e1ac2917e26ef308103400a083605626929b53
 Detailed Testing of Various versions of the Android Mining App completed succesfully. The latest version will be installed on Pocket Miners.
 1:1 Exchange of old SWAT to New SWAT completed. (6 PM GMT 24 Nov 2018)
-We have sent request to Yobit to upgrade to the new contract. https://etherscan.io/token/0xc5e1ac2917e26ef308103400a083605626929b53
-Will send request to EtherFlyer and other exchanges too.
+We have sent request to Yobit through sourcecode update request form to upgrade to the new contract. https://etherscan.io/token/0xc5e1ac2917e26ef308103400a083605626929b53
+Request for contract upgrade has been sent to EtherFlyer's Technical Team through mail.
+Will send similar request to other exchanges too.
