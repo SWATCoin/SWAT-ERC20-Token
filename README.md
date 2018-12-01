@@ -3,8 +3,7 @@
 Contract Address: 0xe9a9d1101204b51e8620a28e471f44bb8775e50d
 Coin Name: SWTCoin
 Symbol: SWAT
-Decimals: 8
-Etherscan: https://etherscan.io/token/0xe9a9d1101204b51e8620a28e471f44bb8775e50d
+Decimals: 8  OLD Contract Address: Etherscan: https://etherscan.io/token/0xe9a9d1101204b51e8620a28e471f44bb8775e50d
 
 New Contract Address: https://etherscan.io/token/0xc0f1728d9513efc316d0e93a0758c992f88b0809
 
