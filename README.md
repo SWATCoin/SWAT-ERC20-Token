@@ -24,3 +24,4 @@ Already Trading is going on for the new SWAT in the following exchanges
 https://etherdelta.com/#0xc0f1728d9513efc316d0e93a0758c992f88b0809-ETH
 https://token.store/trade/0xc0f1728d9513efc316d0e93a0758c992f88b0809
 https://ethen.market/c0f1728d9513efc316d0e93a0758c992f88b0809
+https://forkdelta.app/#!/trade/0xc0f1728d9513efc316d0e93a0758c992f88b0809-ETH
