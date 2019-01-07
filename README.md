@@ -1,5 +1,5 @@
 # SWAT-ERC20-Token
-Coin Naame: SWTCoin
+Coin Name: SWTCoin
 Symbol: SWAT
 
 New Contract Address: https://etherscan.io/token/0xc0f1728d9513efc316d0e93a0758c992f88b0809
